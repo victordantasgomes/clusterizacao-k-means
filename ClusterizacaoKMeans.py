@@ -1,0 +1,1 @@
+# Experimentos de clusterização com K-Means
